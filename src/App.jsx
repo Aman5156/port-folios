@@ -390,7 +390,7 @@ function App() {
             <i className="bi-envelope"></i>
           </a>
         </div>
-        <p className="text-secondary mt-4 mb-0">&copy; 2025 Aman Sharma. Built with React + Bootstrap.</p>
+        <p className="text-secondary mt-4 mb-0">&copy; 2026 Aman Sharma. Built with React + Bootstrap.</p>
       </footer>
 
       {/* Back to Top */}
