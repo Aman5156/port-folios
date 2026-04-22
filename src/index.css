@@ -1,0 +1,11 @@
+/* Global styles - Tailwind disabled for Bootstrap focus */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
